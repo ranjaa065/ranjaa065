@@ -1,8 +1,8 @@
 # Ayush Ranjan
 
-### Final-Year B.Tech Student | Analog and RF Engineering | Electronics and Communication
+### Final-Year B.Tech Student | Analog and RF Engineering | Electrical and Electronics Engineering 
 
-I'm an electrical and electronics student drawn to Analog Circuit, RF, and mmWave Radar. What I like most is figuring out how a circuit actually behaves once its built and used, not just how it looks on paper.
+I'm an electrical and electronics engineering student drawn to Analog Circuit, RF, and mmWave Radar. What I like most is figuring out how a circuit actually behaves once its built and used, not just how it looks on paper.
 I have worked with MATLAB and data analysis through research projects and Internship at IIT Guwahati, where I looked at human motor behavior, and at IIT Bhubaneswar, where the focus was data-driven astronomy. Right now I'm most curious about Analog design, RF and mmWave, signal processing and power electronics. I learn best by trying things out and testing ideas myself. 
 I was also a Campus Ambassador for Cognizance at IIT Roorkee, where I told students about the event and helped them find chances to learn and work with others.
 
