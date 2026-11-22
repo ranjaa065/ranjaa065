@@ -42,17 +42,25 @@ I was also a Campus Ambassador for Cognizance at IIT Roorkee, where I told stude
 
 ---
 
+
 ## GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjaa065&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjaa065&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ranjaa065&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Statistics" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjaa065&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most Used Languages" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://streak-stats.demolab.com?user=ranjaa065&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ranjaa065&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
 
+ 
 ---
 
 ## Contribution Activity
